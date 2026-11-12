@@ -16,7 +16,7 @@ Sviluppatore web full-stack. Lavoro su **e-commerce PrestaShop**, **gestionali a
 | Progetto | Cosa | Tecnologie |
 |---|---|---|
 | [PadelCue](https://github.com/FilippoBonanno/padelcue) | Segnapunti per il padel con voce, telecomandi Bluetooth e smartwatch | JavaScript, Kotlin, Wear OS, PWA |
-| [GymManager](https://github.com/FilippoBonanno/gymmanager) | Gestionale per palestre con PWA per i clienti e accesso tramite QR | Laravel 12, Vue 3, Inertia |
+| [GymCore](https://github.com/FilippoBonanno/gymmanager) | Gestionale completo per palestre con PWA per gli atleti, push, corsi, GDPR | Laravel 12, Vue 3, Inertia |
 | [NexGest](https://github.com/FilippoBonanno/nexgest) | Gestionale per agenzie di intermediazione prestiti, con ruoli e audit log | PHP 8.2, MySQL |
 | [OmniStock](https://github.com/FilippoBonanno/Omnistock) | Catalogo e magazzino multicanale sincronizzato con PrestaShop | PHP, MySQL |
 
