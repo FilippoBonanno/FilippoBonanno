@@ -15,11 +15,13 @@ Sviluppatore web full-stack, ingegnere informatico. Progetto e sviluppo **e-comm
 | [PadelCue](https://github.com/FilippoBonanno/padelcue) · [sito](https://filippobonanno.github.io/segnapadel-site/) | Segnapunti per il padel con voce, telecomandi Bluetooth e smartwatch, in test su Google Play | JavaScript, Kotlin, Wear OS, PWA |
 | [bo2fa](https://github.com/FilippoBonanno/prestashop-bo2fa) | Verifica in due passaggi per il back office PrestaShop, TOTP scritto senza librerie. **Codice pubblico** | PHP, TOTP |
 | [abwatermark](https://github.com/FilippoBonanno/prestashop-abwatermark) | Filigrana automatica delle immagini prodotto, anche sul catalogo esistente. **Codice pubblico** | PHP, GD |
+| [PayTrack](https://github.com/FilippoBonanno/paytrack) | Finanze personali: ricorrenti, spese, bollette, grafici; importa da solo i movimenti dalle notifiche della banca | React, PHP, MySQL, Android (Capacitor + Java) |
 | [OmniStock](https://github.com/FilippoBonanno/Omnistock) | Catalogo e magazzino multicanale sincronizzato con PrestaShop | PHP, MySQL |
 
 ## Lavori per clienti
 | Progetto | Cosa | Tecnologie |
 |---|---|---|
+| [EL-Hope](https://github.com/FilippoBonanno/el-hope-ecommerce) | 4 e-commerce di ricambi ([el-hope.com](https://www.el-hope.com), [privati](https://privati.el-hope.com), [.eu](https://www.el-hope.eu), [Francia](https://www.el-hope-france.com)): aggiornamenti di piattaforma, ricerca istantanea su misura, sicurezza e manutenzione | PrestaShop, PHP, Linux |
 | [Gestionale multi shop](https://github.com/FilippoBonanno/gestionale-multi-shop) | Back office usato da 11 operatori: ordini, magazzino e spedizioni tra eBay e 4 negozi PrestaShop. Ne curo l'evoluzione (50 versioni in 7 mesi); moduli ordini ai fornitori e dashboard spedizioni sviluppati da me | PHP, MySQL, API eBay e PrestaShop, corrieri |
 | [Moduli PrestaShop](https://github.com/FilippoBonanno/prestashop-modules-showcase) | 9 moduli in produzione: anti-bot, ricerca con AI, spedizioni, statistiche ordini | PHP, PrestaShop 1.7–9, Symfony |
 
